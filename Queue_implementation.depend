@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1597777708 source:d:\miret\documents\courses & trainings\introduction to embedded systems_amit\apps\queue_implementation\main.c
+	<stdio.h>
+	<stdlib.h>
+
